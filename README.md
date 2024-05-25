@@ -28,32 +28,4 @@
 1. Run the `echoengine.py` script.
 2. Enter the text you want to be spoken when prompted.
 3. The application will read out the text.
-4. Type "stop" to exit the application.
-
-## Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/echoengine.git
-Navigate to the project directory:
-sh
-Copy code
-cd echoengine
-Install the required library:
-sh
-Copy code
-pip install pyttsx3
-Run the application:
-sh
-Copy code
-python echoengine.py
-Contributing
-Contributions are welcome! If you have ideas for improving the project, fork the repository and submit a pull request with your enhancements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-The pyttsx3 library for providing a simple interface to text-to-speech conversion in Python.
-Inspiration from various text-to-speech projects and applications.
-Feel free to modify this README.md to better suit your project's needs.
+4. Type
